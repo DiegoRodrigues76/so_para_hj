@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "name": "app.jwt.secret",
+      // Define o nome da propriedade para configurar a chave secreta usada na assinatura de tokens JWT.
+      "type": "java.lang.String",
+      // Especifica que o tipo do valor dessa propriedade é uma string.
+      "description": "Secret key for JWT token signing."
+      // Descreve a finalidade da propriedade: chave secreta para assinar tokens JWT.
+    },
+    {
+      "name": "app.jwt.expiration",
+      // Define o nome da propriedade para configurar o tempo de expiração do token JWT.
+      "type": "java.lang.Integer",
+      // Especifica que o tipo do valor dessa propriedade é um número inteiro.
+      "description": "JWT token expiration time in milliseconds."
+      // Descreve a finalidade da propriedade: tempo de expiração do token em milissegundos.
+    }
+  ]
+}

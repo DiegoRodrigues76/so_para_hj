@@ -1,0 +1,9 @@
+br\com\projeto\controller\UserController.class
+br\com\projeto\service\ImovelService.class
+br\com\projeto\model\Imovel.class
+br\com\projeto\service\UserService.class
+br\com\projeto\ProjetoApplication.class
+br\com\projeto\model\User.class
+br\com\projeto\controller\ImovelController.class
+br\com\projeto\repository\UserRepository.class
+br\com\projeto\repository\ImovelRepository.class
